@@ -1,0 +1,17 @@
+{
+    "RELIANCE.NS": {
+        "Start_Price": 1443.22,
+        "End_Price": 1293.0,
+        "Return_Percent": -10.41
+    },
+    "TCS.NS": {
+        "Start_Price": 3919.39,
+        "End_Price": 2200.6,
+        "Return_Percent": -43.85
+    },
+    "INFY.NS": {
+        "Start_Price": 1689.52,
+        "End_Price": 1092.9,
+        "Return_Percent": -35.31
+    }
+}
